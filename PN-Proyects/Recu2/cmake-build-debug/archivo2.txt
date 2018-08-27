@@ -1,0 +1,10 @@
+campos como la Bioinform´atica en Los datos tipo caracter son muy importantes 4
+dentro de una donde se realizan a menudo acciones como localizar en algunos 
+variedad de secuencia, o realizar busquedas por coincidencia parcial motivos (“subsecuencias ?jas”), 
+discutiran en este tema. ? o total en puede manejarlos utilizando una 
+Por un lado se encuentran las funciones propias de para herramientas que se 
+manejo y la manipulaci´on de cadenas ? Dada la gran 
+a?nidad entre y Unix/linux no es de extran˜ar que el 
+Finalmente hay paquetes se pueda trabajar con expresiones regulares con 
+de cadenas coherramientas como grep o agrep. ? 
+orientados directamente al maejo de tipos espec´i?cos 

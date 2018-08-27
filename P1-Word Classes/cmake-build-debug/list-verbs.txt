@@ -1,0 +1,2217 @@
+provide
+include
+create
+support
+consider
+lead
+remain
+develop
+appear
+suggest
+reduce
+produce
+require
+increase
+determine
+improve
+state
+focus
+receive
+teach
+tend
+recognize
+control
+identify
+maintain
+describe
+exist
+address
+seek
+represent
+argue
+form
+apply
+affect
+achieve
+occur
+ensure
+indicate
+perform
+reflect
+assume
+encourage
+report
+note
+test
+establish
+participate
+promote
+experience
+study
+gain
+reveal
+examine
+present
+contain
+explore
+engage
+fail
+benefit
+result
+contribute
+complete
+operate
+expand
+define
+demonstrate
+express
+influence
+compare
+view
+assess
+involve
+measure
+rely
+pursue
+extend
+obtain
+generate
+predict
+depend
+enhance
+preserve
+exercise
+investigate
+account
+communicate
+limit
+emerge
+acknowledge
+conduct
+challenge
+vary
+refer
+capture
+evaluate
+assist
+adopt
+overcome
+process
+guide
+relate
+resolve
+attempt
+observe
+differ
+enable
+emphasize
+monitor
+review
+accomplish
+select
+implement
+permit
+justify
+confirm
+detect
+organize
+accommodate
+analyze
+yield
+acquire
+lack
+proceed
+retain
+display
+impose
+alter
+sustain
+confront
+facilitate
+conclude
+design
+advance
+transform
+distinguish
+perceive
+construct
+constitute
+cope
+supply
+strengthen
+arise
+pose
+possess
+function
+minimize
+access
+satisfy
+graduate
+estimate
+research
+interpret
+inform
+locate
+incorporate
+dominate
+shape
+illustrate
+reject
+direct
+employ
+enforce
+educate
+link
+interact
+propose
+submit
+regulate
+regard
+encounter
+convey
+publish
+adapt
+fulfill
+translate
+contend
+exhibit
+peer
+program
+occupy
+comply
+undermine
+exceed
+decrease
+stimulate
+integrate
+interfere
+counter
+foster
+reinforce
+stress
+grade
+imply
+clarify
+accompany
+compensate
+highlight
+intervene
+aid
+assert
+evolve
+calculate
+restrict
+exploit
+decline
+stem
+violate
+govern
+maximize
+advocate
+cite
+characterize
+undergo
+associate
+manipulate
+initiate
+portray
+project
+devote
+render
+prevail
+modify
+exclude
+diminish
+persist
+coordinate
+verify
+document
+cease
+articulate
+consist
+undertake
+comprehend
+master
+suppress
+attain
+specify
+strive
+base
+utilize
+prohibit
+derive
+motivate
+desire
+deter
+reproduce
+isolate
+concern
+reconcile
+model
+induce
+administer
+weaken
+conform
+assign
+provoke
+depict
+unite
+exert
+transmit
+alleviate
+supplement
+resource
+attribute
+excel
+differentiate
+discern
+frame
+effect
+conceive
+adhere
+evoke
+correspond
+reside
+insure
+con
+enroll
+accumulate
+bind
+comprise
+warrant
+enact
+export
+forge
+cultivate
+complement
+replicate
+mobilize
+value
+uphold
+broaden
+progress
+compose
+import
+discriminate
+flourish
+collaborate
+devise
+nurture
+inhabit
+illuminate
+probe
+elicit
+survey
+elaborate
+conserve
+suffice
+manifest
+imitate
+enrich
+prompt
+formulate
+bridge
+empower
+map
+lessen
+moderate
+consolidate
+invoke
+simulate
+mitigate
+affirm
+obscure
+revise
+appropriate
+neglect
+align
+transcend
+emulate
+embody
+inhibit
+underscore
+encompass
+refine
+reconstruct
+proclaim
+migrate
+classify
+activate
+inquire
+ascertain
+entail
+validate
+authorize
+outline
+simplify
+contradict
+intercept
+coincide
+diagnose
+complicate
+supervise
+instruct
+summarize
+quantify
+mediate
+aspire
+refrain
+preclude
+attest
+perpetuate
+terminate
+outweigh
+remedy
+hinder
+safeguard
+correlate
+labor
+converge
+redefine
+designate
+signify
+impede
+intensify
+amend
+erode
+compel
+mirror
+instill
+eradicate
+shear
+conflict
+impact
+deepen
+symbolize
+originate
+infer
+confer
+merit
+vie
+deprive
+equate
+distort
+enlarge
+infect
+assimilate
+allocate
+circulate
+restructure
+discharge
+relinquish
+counteract
+socialize
+exacerbate
+rate
+cluster
+improvise
+coexist
+curtail
+span
+furnish
+solicit
+grapple
+generalize
+impart
+disregard
+augment
+term
+compute
+modernize
+contest
+overlap
+reshape
+degrade
+categorize
+displace
+revolve
+optimize
+deem
+unify
+absent
+arouse
+equip
+circumvent
+compile
+refute
+underlie
+heighten
+constrain
+renounce
+code
+confine
+denote
+redirect
+intersect
+incur
+concur
+rationalize
+tailor
+disseminate
+legitimize
+prioritize
+synthesize
+destabilize
+publicize
+accord
+precede
+reference
+lag
+forestall
+approximate
+reaffirm
+subvert
+ratify
+solidify
+partake
+paraphrase
+reestablish
+reuse
+format
+amplify
+infuse
+diffuse
+content
+hamper
+exemplify
+decode
+reorganize
+outreach
+accrue
+err
+consent
+commence
+lament
+expend
+orient
+obstruct
+engender
+profess
+interface
+frustrate
+propagate
+underline
+rectify
+negate
+internalize
+sup
+accentuate
+decay
+soil
+delineate
+posit
+detract
+corroborate
+implicate
+impair
+reiterate
+substantiate
+reassess
+conceptualize
+espouse
+pertain
+further
+predominate
+proliferate
+sanction
+abstain
+pare
+diverge
+overestimate
+confound
+redesign
+deduce
+procure
+fluctuate
+interrogate
+deviate
+theorize
+ascribe
+petition
+coalesce
+recur
+precipitate
+innovate
+ensue
+emanate
+expedite
+necessitate
+ameliorate
+sin
+coerce
+repress
+delegate
+permeate
+cede
+redress
+fuse
+elucidate
+reexamine
+excavate
+persevere
+reassert
+supplant
+normalize
+annex
+forego
+allay
+divine
+emigrate
+familiarize
+eschew
+extrapolate
+invalidate
+apprehend
+harmonize
+hypothesize
+surmise
+discontinue
+colonize
+preempt
+magnify
+equal
+detach
+standardize
+reprint
+parallel
+situate
+abstract
+endeavor
+ail
+redistribute
+deplete
+dramatize
+abate
+repudiate
+retard
+fabricate
+binge
+allude
+index
+disengage
+reevaluate
+denigrate
+decry
+exile
+avail
+encode
+compost
+re-examine
+embed
+institutionalize
+animate
+dissent
+site
+appraise
+purport
+equalize
+culminate
+decompose
+group
+reciprocate
+manure
+segregate
+acquiesce
+devalue
+hew
+rework
+infringe
+condense
+endow
+reconfigure
+ally
+configure
+disparage
+bias
+deconstruct
+brainstorm
+reinvigorate
+arc
+reconstitute
+calibrate
+distance
+recast
+marginalize
+construe
+buttress
+overlay
+mistrust
+liberalize
+narrate
+buffer
+monopolize
+humanize
+structure
+query
+pacify
+supersede
+oppress
+co-opt
+postulate
+divest
+predate
+misrepresent
+democratize
+impinge
+countenance
+incarnate
+transcribe
+pervade
+portend
+predispose
+vindicate
+nullify
+modulate
+recognise
+accede
+commercialize
+usurp
+resettle
+inculcate
+subsist
+acquaint
+presuppose
+co-exist
+surmount
+gall
+relegate
+archive
+promulgate
+input
+verbalize
+disentangle
+immigrate
+decree
+epitomize
+underpin
+envisage
+explicate
+disavow
+litigate
+crystallize
+foment
+counterbalance
+codify
+reframe
+nationalize
+fragment
+adjudicate
+moot
+encroach
+imbue
+reorient
+retell
+relapse
+inscribe
+obviate
+typify
+reinterpret
+foreshadow
+juxtapose
+disassociate
+aggregate
+straggle
+contextualize
+realise
+authenticate
+encapsulate
+interconnect
+demystify
+admonish
+prophesy
+polarize
+abdicate
+personify
+parody
+transpire
+centralize
+veil
+devolve
+instigate
+connote
+proselytize
+regress
+reactivate
+formalize
+pique
+consummate
+reenact
+foretell
+deform
+operationalize
+extol
+partition
+consign
+digitize
+comport
+conflate
+falsify
+condition
+enjoin
+sludge
+sensitize
+practise
+intertwine
+idealize
+bracket
+naturalize
+invigorate
+repatriate
+unsettle
+microfilm
+enumerate
+exalt
+catalogue
+reintegrate
+transgress
+debrief
+dissociate
+unmask
+stigmatize
+superimpose
+fulfil
+oscillate
+remediate
+localize
+evince
+attenuate
+gratify
+respite
+subsume
+subjugate
+procreate
+decentralize
+reorder
+resound
+stagnate
+obligate
+abrogate
+oversimplify
+abet
+tract
+presage
+reformulate
+cohere
+exhort
+forearm
+analyse
+output
+enunciate
+catalyze
+fixate
+actualize
+overemphasize
+enshrine
+contrive
+unlearn
+conjecture
+entrap
+caricature
+reemerge
+de-emphasize
+augur
+apportion
+delegitimize
+officiate
+photocopy
+civilize
+silt
+transpose
+disillusion
+demarcate
+impute
+tile
+trawl
+bespeak
+individualize
+metamorphose
+allot
+occult
+infest
+objectify
+troubleshoot
+undergird
+domesticate
+sanctify
+ape
+impel
+entangle
+oxidize
+inactivate
+disallow
+subdivide
+entrench
+rend
+lope
+reallocate
+contravene
+debug
+circumscribe
+co-ordinate
+dehumanize
+evangelize
+conch
+indoctrinate
+subtitle
+depreciate
+preoccupy
+obfuscate
+collude
+defame
+industrialize
+recapitulate
+interweave
+emancipate
+elapse
+repopulate
+annul
+tabulate
+remit
+castigate
+abridge
+arbitrate
+disburse
+impoverish
+internationalize
+consecrate
+triangulate
+reify
+class
+refashion
+purpose
+militate
+delimit
+molt
+vex
+retrograde
+favour
+intermingle
+recombine
+metastasize
+reconceptualize
+efface
+professionalize
+reimagine
+debase
+transmute
+transact
+section
+assent
+misconstrue
+repose
+problematize
+matriculate
+emphasise
+effectuate
+aver
+enquire
+satirize
+solder
+verse
+radicalize
+systematize
+subgroup
+illumine
+hemorrhage
+resubmit
+inhere
+self-regulate
+pervert
+disclaim
+leer
+notate
+aggress
+externalize
+expropriate
+append
+reconfirm
+reunify
+self-identify
+reengage
+privilege
+interrelate
+ornament
+disfigure
+disaggregate
+cohabit
+coagulate
+honour
+outcompete
+apprise
+sequence
+interpose
+proscribe
+audiate
+co-operate
+demobilize
+reengineer
+co-occur
+nom
+homogenize
+depoliticize
+problem-solve
+interlace
+attune
+philosophize
+legitimate
+mystify
+lave
+conjugate
+undervalue
+intermarry
+major
+canonize
+underreport
+occlude
+indemnify
+refract
+decontrol
+accrete
+bootstrap
+re-think
+deemphasize
+reimpose
+minimise
+regularize
+decontaminate
+accredit
+reoccur
+encumber
+prefigure
+valorize
+organise
+relativize
+sight-read
+bobble
+underplay
+commingle
+extrude
+universalize
+historicize
+annotate
+encore
+biodegrade
+overwrite
+satiate
+ennoble
+self-administer
+emasculate
+predicate
+vitiate
+avow
+hybridize
+spindle
+predetermine
+truncate
+secularize
+redound
+excommunicate
+acculturate
+decouple
+voyage
+underrate
+revalue
+pupate
+fledge
+remand
+parasitize
+sieve
+instantiate
+remix
+stratify
+overfeed
+elide
+propound
+conjoin
+rebury
+interleave
+edify
+interpolate
+overstretch
+interplay
+reanimate
+decolonize
+reemphasize
+prise
+re-use
+underachieve
+supercede
+cauterize
+perplex
+purvey
+disempower
+de-escalate
+globalize
+exculpate
+shew
+excoriate
+adduce
+mesh
+debilitate
+blaspheme
+inseminate
+opiate
+extirpate
+lactate
+abjure
+countermand
+subculture
+photosynthesize
+forbear
+commun
+restage
+recolonize
+habituate
+expiate
+assay
+plough
+inflect
+pathologize
+analogize
+propagandize
+concretize
+liaise
+dispossess
+conduce
+ambulate
+depersonalize
+exasperate
+propitiate
+aspirate
+reconceive
+misdirect
+reexperience
+disconfirm
+pretest
+re-register
+self-assess
+reconquer
+irradiate
+mechanize
+seclude
+atomize
+amalgamate
+conciliate
+disfavor
+mythologize
+silhouette
+particularize
+re-present
+deify
+self-publish
+occasion
+burgeon
+disconcert
+fetishize
+commodify
+misperceive
+postdate
+reenlist
+transfigure
+fictionalize
+overrate
+sentinel
+proportion
+countervail
+denude
+eventuate
+estrange
+betoken
+packet
+reabsorb
+premise
+misspell
+labour
+re-write
+maximise
+randomize
+tape-record
+bifurcate
+individuate
+coopt
+slight
+misidentify
+batch
+re-learn
+reanalyze
+thematize
+bewail
+self-disclose
+congest
+revivify
+anthropomorphize
+outfight
+ritualize
+deprecate
+out-compete
+utilise
+tyrannize
+initialize
+interpenetrate
+arrogate
+potentiate
+aggrandize
+misinform
+criticise
+obtrude
+urbanize
+self-evaluate
+entrain
+vivify
+scruple
+deselect
+narrativize
+self-address
+balkanize
+distend
+pre-date
+preload
+remap
+manoeuvre
+beset
+reinscribe
+recontextualize
+self-organize
+re-orient
+bioaccumulate
+uncouple
+actuate
+recompose
+signpost
+dichotomize
+undercount
+incise
+characterise
+re-assess
+vitalize
+palpate
+delist
+refigure
+overgrow
+expatiate
+derogate
+respire
+stultify
+re-export
+self-gift
+souvent
+inveigh
+recommence
+demythologize
+team-teach
+sabe
+co-teach
+co-create
+optimise
+equilibrate
+disquiet
+enmesh
+prognosticate
+reincorporate
+overstress
+reteach
+adsorb
+denuclearize
+precess
+recode
+subsample
+said	say
+came	come
+got	get
+went	go
+made	make
+took	take
+thought	think
+knew	know
+told	tell
+saw	see
+wanted	want
+asked	ask
+found	find
+began	begin
+looked	look
+felt	feel
+became	become
+started	start
+gave	give
+turned	turn
+seemed	seem
+left	leave
+happened	happen
+tried	try
+wrote	write
+heard	hear
+sat	sit
+called	call
+stood	stand
+died	die
+showed	show
+put	put
+ran	run
+worked	work
+used	use
+walked	walk
+kept	keep
+needed	need
+held	hold
+decided	decide
+brought	bring
+moved	move
+lost	lose
+fell	fall
+opened	open
+won	win
+grew	grow
+spoke	speak
+met	meet
+spent	spend
+hit	hit
+appeared	appear
+reported	report
+played	play
+pulled	pull
+watched	watch
+led	lead
+continued	continue
+received	receive
+lived	live
+stopped	stop
+helped	help
+meant	mean
+included	include
+reached	reach
+added	add
+learned	learn
+sent	send
+passed	pass
+set	set
+loved	love
+realized	realize
+followed	follow
+talked	talk
+broke	break
+believed	believe
+liked	like
+smiled	smile
+shook	shake
+bought	buy
+arrived	arrive
+nodded	nod
+agreed	agree
+picked	pick
+offered	offer
+returned	return
+drove	drive
+remained	remain
+ended	end
+suggested	suggest
+closed	close
+raised	raise
+lay	lay
+announced	announce
+caught	catch
+discovered	discover
+laughed	laugh
+named	name
+wore	wear
+pointed	point
+created	create
+explained	explain
+killed	kill
+joined	join
+chose	choose
+wondered	wonder
+dropped	drop
+changed	change
+occurred	occur
+threw	throw
+waited	wait
+failed	fail
+stared	stare
+served	serve
+drew	draw
+stayed	stay
+read	read
+indicated	indicate
+noted	note
+paid	pay
+stepped	step
+described	describe
+pushed	push
+shot	shoot
+carried	carry
+entered	enter
+allowed	allow
+noticed	notice
+remembered	remember
+replied	reply
+refused	refuse
+mentioned	mention
+sold	sell
+involved	involve
+signed	sign
+answered	answer
+finished	finish
+built	build
+expected	expect
+revealed	reveal
+considered	consider
+understood	understand
+produced	produce
+managed	manage
+claimed	claim
+provided	provide
+leaned	lean
+caused	cause
+ate	eat
+glanced	glance
+sought	seek
+taught	teach
+missed	miss
+ordered	order
+jumped	jump
+struck	strike
+emerged	emerge
+developed	develop
+cried	cry
+insisted	insist
+grabbed	grab
+flew	fly
+argued	argue
+whispered	whisper
+sounded	sound
+hung	hang
+studied	study
+scored	score
+lifted	lift
+covered	cover
+visited	visit
+proved	prove
+rolled	roll
+concluded	conclude
+touched	touch
+hoped	hope
+promised	promise
+figured	figure
+filled	fill
+recognized	recognize
+disappeared	disappear
+attended	attend
+declared	declare
+shouted	shout
+earned	earn
+handed	hand
+slipped	slip
+recalled	recall
+enjoyed	enjoy
+paused	pause
+stated	state
+shrugged	shrug
+fought	fight
+climbed	climb
+approached	approach
+blew	blow
+voted	vote
+represented	represent
+presented	present
+beat	beat
+let	let
+shared	share
+introduced	introduce
+listened	listen
+crossed	cross
+supported	support
+woke	wake
+wished	wish
+responded	respond
+published	publish
+sighed	sigh
+faced	face
+suffered	suffer
+hated	hate
+declined	decline
+forced	force
+reminded	remind
+warned	warn
+observed	observe
+demanded	demand
+admitted	admit
+completed	complete
+established	establish
+traveled	travel
+existed	exist
+laid	lay
+sang	sing
+formed	form
+married	marry
+checked	check
+examined	examine
+launched	launch
+slept	sleep
+slid	slide
+complained	complain
+planned	plan
+increased	increase
+forgot	forget
+issued	issue
+pressed	press
+accepted	accept
+contained	contain
+expressed	express
+intended	intend
+settled	settle
+fired	fire
+saved	save
+assumed	assume
+rode	ride
+drank	drink
+owned	own
+hired	hire
+snapped	snap
+waved	wave
+repeated	repeat
+conducted	conduct
+survived	survive
+removed	remove
+imagined	imagine
+performed	perform
+placed	place
+gained	gain
+invited	invite
+proposed	propose
+tested	test
+focused	focus
+tended	tend
+experienced	experience
+rang	ring
+participated	participate
+shut	shut
+yelled	yell
+stuck	stick
+kissed	kiss
+demonstrated	demonstrate
+filed	file
+threatened	threaten
+discussed	discuss
+belonged	belong
+landed	land
+ignored	ignore
+urged	urge
+smelled	smell
+denied	deny
+bent	bend
+stole	steal
+rejected	reject
+chopped	chop
+retired	retire
+kicked	kick
+confirmed	confirm
+gathered	gather
+reflected	reflect
+struggled	struggle
+acknowledged	acknowledge
+knocked	knock
+ruled	rule
+hurt	hurt
+catches	catch
+founded	found
+delivered	deliver
+contributed	contribute
+feared	fear
+lasted	last
+testified	testify
+attempted	attempt
+grinned	grin
+accused	accuse
+headed	head
+stretched	stretch
+recorded	record
+poured	pour
+rushed	rush
+encouraged	encourage
+tied	tie
+backed	back
+cited	cite
+burned	burn
+extended	extend
+swung	swing
+adopted	adopt
+lit	light
+predicted	predict
+attacked	attack
+designed	design
+tossed	toss
+collected	collect
+perceived	perceive
+wrapped	wrap
+devoted	devote
+recommended	recommend
+cleared	clear
+lowered	lower
+interviewed	interview
+destroyed	destroy
+shifted	shift
+lacked	lack
+organized	organize
+reduced	reduce
+directed	direct
+muttered	mutter
+screamed	scream
+prompted	prompt
+captured	capture
+frowned	frown
+estimated	estimate
+charged	charge
+lied	lie
+dug	dig
+replaced	replace
+fled	flee
+compared	compare
+sank	sink
+applied	apply
+informed	inform
+rubbed	rub
+wiped	wipe
+addressed	address
+swept	sweep
+maintained	maintain
+exploded	explode
+hesitated	hesitate
+fed	feed
+tore	tear
+preferred	prefer
+worried	worry
+graduated	graduate
+slammed	slam
+approved	approve
+bit	bite
+cut	cut
+crashed	crash
+favored	favor
+flashed	flash
+spotted	spot
+rated	rate
+emphasized	emphasize
+wound	wind
+blinked	blink
+dragged	drag
+acted	act
+assured	assure
+identified	identify
+convinced	convince
+suspected	suspect
+hid	hide
+abandoned	abandon
+inspired	inspire
+opposed	oppose
+viewed	view
+arose	arise
+combined	combine
+resulted	result
+locked	lock
+acquired	acquire
+spread	spread
+surprised	surprise
+referred	refer
+questioned	question
+stumbled	stumble
+drifted	drift
+cared	care
+vanished	vanish
+defined	define
+purchased	purchase
+featured	feature
+averaged	average
+released	release
+gazed	gaze
+hurried	hurry
+quit	quit
+controlled	control
+switched	switch
+peered	peer
+searched	search
+counted	count
+mixed	mix
+murmured	murmur
+squeezed	squeeze
+tapped	tap
+withdrew	withdraw
+challenged	challenge
+collapsed	collapse
+packed	pack
+employed	employ
+measured	measure
+washed	wash
+practiced	practice
+dismissed	dismiss
+advised	advise
+enabled	enable
+deserved	deserve
+pleaded	plead
+centered	center
+swallowed	swallow
+reviewed	review
+brushed	brush
+resigned	resign
+handled	handle
+seized	seize
+attracted	attract
+criticized	criticize
+sensed	sense
+escaped	escape
+proceeded	proceed
+obtained	obtain
+breathed	breathe
+popped	pop
+blamed	blame
+interrupted	interrupt
+surveyed	survey
+weighed	weigh
+related	relate
+invented	invent
+hugged	hug
+displayed	display
+posted	post
+arranged	arrange
+prayed	pray
+dreamed	dream
+painted	paint
+dominated	dominate
+labeled	label
+flipped	flip
+listed	list
+defended	defend
+yielded	yield
+generated	generate
+witnessed	witness
+colored	color
+analyzed	analyze
+spun	spin
+exclaimed	exclaim
+embraced	embrace
+froze	freeze
+slowed	slow
+aimed	aim
+greeted	greet
+confessed	confess
+succeeded	succeed
+underwent	undergo
+commented	comment
+expanded	expand
+slapped	slap
+bounced	bounce
+patted	pat
+shoved	shove
+stressed	stress
+remarked	remark
+avoided	avoid
+asserted	assert
+treated	treat
+located	locate
+pretended	pretend
+raced	race
+defeated	defeat
+possessed	possess
+guessed	guess
+required	require
+surrounded	surround
+tucked	tuck
+investigated	investigate
+relaxed	relax
+twisted	twist
+posed	pose
+committed	commit
+sliced	slice
+praised	praise
+protested	protest
+granted	grant
+contacted	contact
+violated	violate
+gasped	gasp
+blocked	block
+pitched	pitch
+rested	rest
+wandered	wander
+eased	ease
+gestured	gesture
+shone	shine
+accompanied	accompany
+prevented	prevent
+knelt	kneel
+thanked	thank
+melted	melt
+sued	sue
+marched	march
+traded	trade
+admired	admire
+quoted	quote
+celebrated	celebrate
+installed	install
+divided	divide
+parked	park
+transformed	transform
+disagreed	disagree
+danced	dance
+cooked	cook
+chuckled	chuckle
+vowed	vow
+begged	beg
+sprang	spring
+swam	swim
+apologized	apologize
+prepared	prepare
+owed	owe
+glared	glare
+resembled	resemble
+cleaned	clean
+enlisted	enlist
+reacted	react
+exposed	expose
+swore	swear
+jerked	jerk
+smoked	smoke
+clicked	click
+triggered	trigger
+welcomed	welcome
+uncovered	uncover
+straightened	straighten
+scared	scare
+dealt	deal
+cost	cost
+roared	roar
+shocked	shock
+cracked	crack
+recovered	recover
+mattered	matter
+grated	grate
+encountered	encounter
+bore	bore
+stirred	stir
+improved	improve
+bowed	bow
+crowded	crowd
+tasted	taste
+punched	punch
+scanned	scan
+inherited	inherit
+echoed	echo
+resisted	resist
+volunteered	volunteer
+circled	circle
+marked	mark
+awoke	awake
+bothered	bother
+pounded	pound
+dumped	dump
+diced	dice
+engaged	engage
+persuaded	persuade
+crept	creep
+pursued	pursue
+doubled	double
+strode	stride
+leaped	leap
+envisioned	envision
+exchanged	exchange
+gripped	grip
+soared	soar
+explored	explore
+ripped	rip
+exceeded	exceed
+illustrated	illustrate
+stuffed	stuff
+joked	joke
+burst	burst
+split	split
+exhibited	exhibit
+tracked	track
+poked	poke
+selected	select
+signaled	signal
+oriented	orient
+resumed	resume
+rented	rent
+doubted	doubt
+borrowed	borrow
+sipped	sip
+retreated	retreat
+initiated	initiate
+endorsed	endorse
+endured	endure
+trailed	trail
+regarded	regard
+floated	float
+dried	dry
+tilted	tilt
+advanced	advance
+plunged	plunge
+tugged	tug
+evolved	evolve
+submitted	submit
+composed	compose
+yanked	yank
+guided	guide
+appreciated	appreciate
+curled	curl
+calculated	calculate
+surfaced	surface
+trusted	trust
+invested	invest
+confronted	confront
+supposed	suppose
+eliminated	eliminate
+shaped	shape
+groaned	groan
+squinted	squint
+permitted	permit
+folded	fold
+flung	fling
+dared	dare
+drained	drain
+donated	donate
+constituted	constitute
+sparked	spark
+mounted	mount
+tipped	tip
+hosted	host
+characterized	characterize
+relied	rely
+commanded	command
+faded	fade
+conceded	concede
+snorted	snort
+topped	top
+canceled	cancel
+supplied	supply
+amounted	amount
+shivered	shiver
+eyed	eye
+consisted	consist
+dressed	dress
+crawled	crawl
+fueled	fuel
+pledged	pledge
+invaded	invade
+mumbled	mumble
+ducked	duck
+sailed	sail
+wept	weep
+bound	bind
+instructed	instruct
+piled	pile
+snatched	snatch
+rocked	rock
+imposed	impose
+sucked	suck
+hissed	hiss
+pictured	picture
+scrambled	scramble
+sniffed	sniff
+whipped	whip
+shuddered	shudder
+tumbled	tumble
+stroked	stroke
+implied	imply
+determined	determine
+chased	chase
+glowed	glow
+murdered	murder
+retained	retain
+accomplished	accomplish
+anticipated	anticipate
+scratched	scratch
+targeted	target
+leapt	leap
+buried	bury
+descended	descend
+wounded	wound
+united	unite
+narrowed	narrow
+skipped	skip
+attributed	attribute
+injured	injure
+appealed	appeal
+modeled	model
+stripped	strip
+growled	growl
+hovered	hover
+secured	secure
+startled	startle
+varied	vary
+decreased	decrease
+crushed	crush
+requested	request
+hauled	haul
+lingered	linger
+detected	detect
+unveiled	unveil
+enrolled	enroll
+tightened	tighten
+freed	free
+planted	plant
+divorced	divorce
+competed	compete
+outlined	outline
+rounded	round
+boarded	board
+clutched	clutch
+spilled	spill
+boasted	boast
+resolved	resolve
+phoned	phone
+registered	register
+sped	speed
+evaluated	evaluate
+traced	trace
+reasoned	reason
+nestled	nestle
+persisted	persist
+grunted	grunt
+lent	lend
+loomed	loom
+winked	wink
+consumed	consume
+barked	bark
+condemned	condemn
+surged	surge
+blasted	blast
+honored	honor
+corrected	correct
+strolled	stroll
+starred	star
+stunned	stun
+cheered	cheer
+singled	single
+appointed	appoint
+reversed	reverse
+opted	opt
+trained	train
+staged	stage
+achieved	achieve
+sponsored	sponsor
+delayed	delay
+flowed	flow
+trembled	tremble
+impressed	impress
+giggled	giggle
+flickered	flicker
+advocated	advocate
+licked	lick
+concentrated	concentrate
+stormed	storm
+objected	object
+clapped	clap
+thrust	thrust
+crafted	craft
+negotiated	negotiate
+cocked	cock
+reinforced	reinforce
+preceded	precede
+flooded	flood
+depicted	depict
+highlighted	highlight
+converted	convert
+differed	differ
+cursed	curse
+ached	ache
+darted	dart
+pronounced	pronounce
+assembled	assemble
+coached	coach
+departed	depart
+ceased	cease
+judged	judge
+inquired	inquire
+dipped	dip
+chewed	chew
+dedicated	dedicate
+shuffled	shuffle
+devised	devise
+grasped	grasp
+winced	wince
+teased	tease
+fixed	fix
+crouched	crouch
+clung	cling
+recounted	recount
+betrayed	betray
+seeded	seed
+countered	counter
+suspended	suspend
+flared	flare
+erupted	erupt
+flourished	flourish
+slumped	slump
+longed	long
+stabbed	stab
+respected	respect
+translated	translate
+smashed	smash
+swirled	swirl
+unfolded	unfold
+rattled	rattle
+desired	desire
+summoned	summon
+aired	air
+ranged	range
+carved	carve
+steered	steer
+overcame	overcome
+documented	document
+hopped	hop
+toured	tour
+bumped	bump
+occupied	occupy
+commissioned	commission
+affected	affect
+sealed	seal
+assisted	assist
+moaned	moan
+awaited	await
+flicked	flick
+provoked	provoke
+interpreted	interpret
+widened	widen
+blurted	blurt
+proclaimed	proclaim
+sustained	sustain
+denounced	denounce
+fluttered	flutter
+ruined	ruin
+totaled	total
+staggered	stagger
+originated	originate
+contended	contend
+comprised	comprise
+operated	operate
+drafted	draft
+shattered	shatter
+shrank	shrink
+guaranteed	guarantee
+lined	line
+drowned	drown
+edged	edge
+choked	choke
+motioned	motion
+adjusted	adjust
+pumped	pump
+separated	separate
+coughed	cough
+parted	part
+coincided	coincide
+risked	risk
+speculated	speculate
+altered	alter
+fished	fish
+spat	spit
+mused	muse
+regretted	regret
+screwed	screw
+grumbled	grumble
+draped	drape
+warmed	warm
+emitted	emit
+wasted	waste
+undertook	undertake
+whistled	whistle
+lurched	lurch
+halted	halt
+dialed	dial
+leveled	level
+pleased	please
+whirled	whirl
+spelled	spell
+accelerated	accelerate
+restored	restore
+cautioned	caution
+matched	match
+reserved	reserve
+paced	pace
+neared	near
+ventured	venture
+panicked	panic
+buzzed	buzz
+photographed	photograph
+conceived	conceive
+battled	battle
+elected	elect
+dashed	dash
+nudged	nudge
+prevailed	prevail
+oversaw	oversee
+adapted	adapt
+clenched	clench
+banned	ban
+progressed	progress
+scooped	scoop
+robbed	rob
+valued	value
+depended	depend
+alleged	allege
+strained	strain
+surrendered	surrender
+regained	regain
+ranked	rank
+promoted	promote
+cast	cast
+based	base
+flushed	flush
+chatted	chat
+heaved	heave
+housed	house
+overlooked	overlook
+stemmed	stem
+executed	execute
+adored	adore
+rescued	rescue
+edited	edit
+paralyzed	paralyze
+emptied	empty
+functioned	function
+disliked	dislike
+accounted	account
+hooked	hook
+termed	term
+benefited	benefit
+peeked	peek
+summed	sum
+framed	frame
+reiterated	reiterate
+debated	debate
+seated	seat
+debuted	debut
+gleamed	gleam
+dawned	dawn
+voiced	voice
+clustered	cluster
+banged	bang
+enacted	enact
+relieved	relieve
+resented	resent
+marveled	marvel
+unlocked	unlock
+excluded	exclude
+shipped	ship
+rallied	rally
+trimmed	trim
+plucked	pluck
+fumbled	fumble
+scraped	scrape
+roamed	roam
+dated	date
+scowled	scowl
+plummeted	plummet
+pondered	ponder
+suited	suit
+inhaled	inhale
+arrested	arrest
+expired	expire
+transferred	transfer
+raged	rage
+absorbed	absorb
+lamented	lament
+squatted	squat
+consulted	consult
+stalled	stall
+hummed	hum
+grimaced	grimace

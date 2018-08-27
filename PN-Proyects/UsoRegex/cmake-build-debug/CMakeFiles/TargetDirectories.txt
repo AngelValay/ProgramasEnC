@@ -1,0 +1,3 @@
+C:/Users/angel/Documents/Programacion Estructurada/Proyects/UsoRegex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/angel/Documents/Programacion Estructurada/Proyects/UsoRegex/cmake-build-debug/CMakeFiles/UsoRegex.dir
+C:/Users/angel/Documents/Programacion Estructurada/Proyects/UsoRegex/cmake-build-debug/CMakeFiles/edit_cache.dir

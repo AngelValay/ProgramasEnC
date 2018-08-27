@@ -1,0 +1,3 @@
+C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Word Classes/cmake-build-debug/CMakeFiles/Word_Classes.dir
+C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Word Classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Word Classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

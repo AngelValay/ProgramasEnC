@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/angel/Documents/Programacion Estructurada/Recovery Unit 3/Desviacion estandar/main.cpp
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+

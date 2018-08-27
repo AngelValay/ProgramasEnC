@@ -1,0 +1,3 @@
+C:/Users/angel/Documents/Programacion Estructurada/Recovery Unit 3/Regla de Sarrus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/angel/Documents/Programacion Estructurada/Recovery Unit 3/Regla de Sarrus/cmake-build-debug/CMakeFiles/Regla_de_Sarrus.dir
+C:/Users/angel/Documents/Programacion Estructurada/Recovery Unit 3/Regla de Sarrus/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/angel/Documents/Programacion Estructurada/Programs Unit 3/012Structure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/angel/Documents/Programacion Estructurada/Programs Unit 3/012Structure/cmake-build-debug/CMakeFiles/012Structure.dir
+C:/Users/angel/Documents/Programacion Estructurada/Programs Unit 3/012Structure/cmake-build-debug/CMakeFiles/edit_cache.dir

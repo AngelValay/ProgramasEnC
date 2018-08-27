@@ -1,0 +1,30 @@
+{Terrazas, 2018}El primero anuncio se refiere a la ventana en el calendario para que por fin salga a la venta esta nueva versión de la épica Neo Geo. {Nicolai & Larraz, 2018} El Neo Geo Mini será lanzado en Japón durante el verano de este año (o sea ya en semanas) y algunos meses después en el resto del mundo. {Tapia, 2018}
+El mandatario anfitrión aprovechó la cumbre de la OCS, que inauguró ayer sábado, para criticar una vez más a Estados Unidos por la decisión del presidente Donald Trump de imponer una serie de aranceles contra las importaciones chinas. {Forbes Staff, 2018}
+Los 44 exabytes —unos 44 mil millones de gigabytes— de nuevos datos creados en el mundo cada día son demasiado importantes como para repensar su concepción, por lo que vale la pena preguntarnos, ¿cómo se puede interpretar el estado actual de la privacidad? ¿Qué cambios regulatorios hay este año? Y, ¿qué asuntos serán clave para entender el futuro de la privacidad? {Arreola, 2018}
+El porcentaje de la población con obesidad o sobrepeso fue mayor en relación directa con la edad, pese a ello, un porcentaje significativo de los casos de menores de 29 años presentaban sobrepeso (33.3%) y obesidad (14.4%). {Ruiz Macías, 2010} Las mayores prevalencias se presentaron entre los 40 y 59 años de edad. {Barroso, 2012}
+Tu cuerpo empieza a desarrollarse, tu mente empieza a madurar y tú empiezas a utilizar símbolos para transmitir tu mensaje. {Ruiz Macías, 2010}
+De hecho, ‘Bright’ acaba convirtiéndose en una especie de correcalles en los que esas nuevas razas solamente sirven para realizar un endeble aproximamiento al tema de la tolerancia en el que nunca esperéis que se profundice. {Mexico Patente nº 123, 1898}
+Aplicando principios termodinámicos {Terrazas, 2018} (es decir, conociendo que una mezcla de aire y combustible puede explotar si se aplica la suficiente presión), este ingeniero pensó que podría ser una alternativa al tradicional motor de combustión. {Mexico Patente nº 123, 1898}
+Si el resultado del operando izquierdo es cierto, se continúa con la evaluación de la expresión de la derecha, que también es convertida a bool. {Arreola, 2018} Si el nuevo resultado es true, entonces el resultado del operador es true. En caso contrario el resultado es false. {Guillermo Garcia, 2012}
+La presidenta del Consejo Municipal Electoral, Martha Patricia García Mejía, dio cumplimiento al acuerdo emitido por el Consejo General del IETAM, mediante el cual aprueba el registro de solicitud de planillas. {Terrazas, 2018}
+La Fepade aseguró en un comunicado que investiga las denuncias por llamadas contra un candidato para determinar si constituyen un delito electoral y reprobó la utilización de datos personales, como el número celular, para hacer proselitismo. {Nicolai & Larraz, 2018}
+ 
+
+
+ 
+Works Cited
+Arreola, J. (8 de Juny de 2018). "¿Cómo está cambiando la privacidad en 2018?" Recuperado el 10 de Juny de 2018, de Forbes Mexico: https://www.forbes.com.mx/como-esta-cambiando-la-privacidad-en-2018/
+Barroso, C. C. (January de 2012). La obesidad, un problema de salud pública. (U. A. Mexico, Ed.) "Espacios Publicos", 15, 200-215. Recuperado el s.f.
+Diesel, R. (1898). Mexico Patente nº 123. Recuperado el s.f.
+Forbes Staff. (10 de Juny de 2018). "China rechaza políticas “egoístas y miopes” de EU en materia comercial". Recuperado el s.f., de Forbes Mexico: https://www.forbes.com.mx/china-rechaza-politicas-egoistas-y-miopes-de-eu-en-materia-comercial/
+Guillermo Garcia, C. (9 de March de 2012). "UNAM." Recuperado el s.f., de Páginas Personales de Profesores: http://profesores.fi-b.unam.mx/carlos/lcpi/p09/OPERADORES%20EN%20%20C++.pdf
+Macchiaroli, M. (14 de July de 2017). "Windows Server 2016 Editions Comparison". Recuperado el s.f., de Linkedin: https://www.linkedin.com/pulse/windows-server-2016-editions-comparison-michael-macchiaroli
+Microsoft Corporation. (2016). "Guía definitiva de Windows Server 2016." Recuperado el s.f., de Sitio web de Microsoft Corporation: https://info.microsoft.com/rs/157-GQE-382/images/ES-ES-CNTNT-eBook-HybridCloud-WindowsServerUltimateGuide_HR-es-es.PDF
+Nicolai, A., & Larraz, I. (7 de Juny de 2018). "Llamadas telefónicas contra candidatos, ¿son legales? ¿Las puedes denunciar?" Recuperado el s.f., de Verificado 2018: https://verificado.mx/llamadas-telefonicas-candidatos/
+Roca, J. C. (15 de Juny de 2016). "Introducción a Windows Server 2016: nuevas características y mejoras". Recuperado el s.f., de Bit: https://www.bit.es/knowledge-center/introduccion-a-windows-server-2016/
+Ruiz Macías, M. Á. (2010). "The Fitfth Agreement - A Toltec Wisdom Book." (E. U. S.A, Ed.) San Rafael, California: Amber-Allen Publishing, Inc. Recuperado el 10 de Juny de 2018
+Tapia, E. (10 de Juny de 2018). "Por fin revelan lista de títulos y salida aproximada para la Neo Geo Mini". (UnoCero) Recuperado el 10 de Juny de 2018, de UnoCero: https://www.unocero.com/videojuegos/lista-de-titulos-y-salida-aproximada-neo-geo-mini/
+Terrazas, V. (24 de April de 2018). "Avala IETAM 6 candidatos a alcaldía de Cd. Victoria". Recuperado el s.f., de La Verdad: https://www.laverdad.com.mx/local/avala-ietam-6-candidatos-a-alcaldia-de-cd-victoria
+
+
+

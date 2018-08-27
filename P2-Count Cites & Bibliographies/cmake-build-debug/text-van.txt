@@ -1,0 +1,29 @@
+(1)El primero anuncio se refiere a la ventana en el calendario para que por fin salga a la venta esta nueva versión de la épica Neo Geo. (2) El Neo Geo Mini será lanzado en Japón durante el verano de este año (o sea ya en semanas) y algunos meses después en el resto del mundo. (3)
+El mandatario anfitrión aprovechó la cumbre de la OCS, que inauguró ayer sábado, para criticar una vez más a Estados Unidos por la decisión del presidente Donald Trump de imponer una serie de aranceles contra las importaciones chinas. (4)
+Los (13)44 exabytes —unos 44 mil millones de gigabytes— de nuevos datos creados en el mundo cada día son demasiado importantes como para repensar su concepción, por lo que vale la pena preguntarnos, ¿cómo se puede interpretar el estado actual de la privacidad? ¿Qué cambios regulatorios hay este año? Y, ¿qué asuntos serán clave para entender el futuro de la privacidad? (5)
+El porcentaje de la población con obesidad o sobrepeso fue mayor en relación directa con la edad, pese a ello, un porcentaje significativo de los casos de menores de 29 años presentaban sobrepeso (33.3%) y obesidad (14.4%). (6) Las mayores prevalencias se presentaron entre los 40 y 59 años de edad. (7)
+Tu cuerpo empieza a desarrollarse, tu mente empieza a madurar y tú empiezas a utilizar símbolos para transmitir tu mensaje. (6)
+De hecho, ‘Bright’ acaba convirtiéndose en una especie de correcalles en los que esas nuevas razas solamente sirven para realizar un endeble aproximamiento al tema de la tolerancia en el que nunca esperéis que se profundice. (8)
+Aplicando principios termodinámicos (1) (es decir, conociendo que una mezcla de aire y combustible puede explotar si se aplica la suficiente presión), este ingeniero pensó que podría ser una alternativa al tradicional motor de combustión. (8)
+Si el resultado del operando izquierdo es cierto, se continúa con la evaluación de la expresión de la derecha, que también es convertida a bool. (5) Si el nuevo resultado es true, entonces el resultado del operador es true. En caso contrario el resultado es false. (9)
+La presidenta del Consejo Municipal Electoral, Martha Patricia García Mejía, dio cumplimiento al acuerdo emitido por el Consejo General del IETAM, mediante el cual aprueba el registro de solicitud de planillas. (1)
+La Fepade aseguró en un comunicado que investiga las denuncias por llamadas contra un candidato para determinar si constituyen un delito electoral y reprobó la utilización de datos personales, como el número celular, para hacer proselitismo. (2)
+ 
+
+
+ 
+Works Cited
+1.	Terrazas V. La Verdad. [Online].; 2018. Available from: https://www.laverdad.com.mx/local/avala-ietam-6-candidatos-a-alcaldia-de-cd-victoria.
+2.	Nicolai A, Larraz I. Verificado 2018. [Online].; 2018. Available from: https://verificado.mx/llamadas-telefonicas-candidatos/.
+3.	Tapia E. UnoCero. [Online].; 2018 [cited 2018 Juny 10. Available from: https://www.unocero.com/videojuegos/lista-de-titulos-y-salida-aproximada-neo-geo-mini/.
+4.	Forbes Staff. Forbes Mexico. [Online].; 2018. Available from: https://www.forbes.com.mx/china-rechaza-politicas-egoistas-y-miopes-de-eu-en-materia-comercial/.
+5.	Arreola J. Forbes Mexico. [Online].; 2018 [cited 2018 Juny 10. Available from: https://www.forbes.com.mx/como-esta-cambiando-la-privacidad-en-2018/.
+6.	Ruiz Macías MÁ. The Fitfth Agreement - A Toltec Wisdom Book S.A EU, editor. San Rafael: Amber-Allen Publishing, Inc.; 2010.
+7.	Barroso CC. La obesidad, un problema de salud pública. Espacios Publicos. 2012 January; 15: p. 200-215.
+8.	Diesel R, inventor; Un motor que contamina menos y tiene mayor rendimiento. Mexico patent 123. 1898.
+9.	Guillermo Garcia C. Páginas Personales de Profesores. [Online].; 2012. Available from: http://profesores.fi-b.unam.mx/carlos/lcpi/p09/OPERADORES%20EN%20%20C++.pdf.
+10.	Roca JC. Bit. [Online].; 2016. Available from: https://www.bit.es/knowledge-center/introduccion-a-windows-server-2016/.
+11.	Microsoft Corporation. Sitio web de Microsoft Corporation. [Online].; 2016. Available from: https://info.microsoft.com/rs/157-GQE-382/images/ES-ES-CNTNT-eBook-HybridCloud-WindowsServerUltimateGuide_HR-es-es.PDF.
+12.	Macchiaroli M. Linkedin. [Online].; 2017. Available from: https://www.linkedin.com/pulse/windows-server-2016-editions-comparison-michael-macchiaroli.
+
+

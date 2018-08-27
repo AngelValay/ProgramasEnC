@@ -1,0 +1,10 @@
+orientados directamente al maejo de tipos espec´i?cos 
+de cadenas coherramientas como grep o agrep. ? 
+Finalmente hay paquetes se pueda trabajar con expresiones regulares con 
+a?nidad entre y Unix/linux no es de extran˜ar que el 
+manejo y la manipulaci´on de cadenas ? Dada la gran 
+Por un lado se encuentran las funciones propias de para herramientas que se 
+discutiran en este tema. ? o total en puede manejarlos utilizando una 
+variedad de secuencia, o realizar busquedas por coincidencia parcial motivos (“subsecuencias ?jas”), 
+dentro de una donde se realizan a menudo acciones como localizar en algunos 
+campos como la Bioinform´atica en Los datos tipo caracter son muy importantes 4

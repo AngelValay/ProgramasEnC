@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/angel/Documents/Programacion Estructurada/Programs Unit 3/Menu/main.cpp
+iostream
+-
+limits.h
+-
+float.h
+-
+time.h
+-
+windows.h
+-
+
