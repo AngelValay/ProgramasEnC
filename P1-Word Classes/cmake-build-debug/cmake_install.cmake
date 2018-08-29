@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Word Classes
+# Install script for directory: C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Programs/P1-Word Classes
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Word Classes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Programs/P1-Word Classes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

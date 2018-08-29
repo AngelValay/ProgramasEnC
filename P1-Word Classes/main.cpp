@@ -52,7 +52,6 @@ int main() {
     texto = formatear(leerArchivo(PATH));
     //printf("%s\n",texto.c_str());
     buscarPalabras(texto);
-	system("PAUSE");
     return 0;
 }
 string obtenerLista(string path){

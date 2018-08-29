@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Word Classes/main.cpp" "C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Word Classes/cmake-build-debug/CMakeFiles/Word_Classes.dir/main.cpp.obj"
+  "C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Programs/P1-Word Classes/main.cpp" "C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Programs/P1-Word Classes/cmake-build-debug/CMakeFiles/Word_Classes.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
