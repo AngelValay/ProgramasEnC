@@ -1,3 +1,0 @@
-C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Count Cites & Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir
-C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Count Cites & Bibliographies/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/angel/Documents/3 Cuatrimestre - UPV/Programacion Estructurada/Proyects/Count Cites & Bibliographies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

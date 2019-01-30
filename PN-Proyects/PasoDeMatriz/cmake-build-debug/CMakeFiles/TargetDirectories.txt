@@ -1,3 +1,0 @@
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/PasoDeMatriz/cmake-build-debug/CMakeFiles/PasoDeMatriz.dir
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/PasoDeMatriz/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/PasoDeMatriz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

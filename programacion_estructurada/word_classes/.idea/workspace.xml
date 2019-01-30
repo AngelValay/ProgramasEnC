@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Word_Classes" targetName="Word_Classes" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51d5b69d-14f2-477e-9c44-7d04ddf4fdf0" name="Default" comment="Delete innecesary instruction">
+      <change afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Word_Classes.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Word_Classes.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Word_Classes.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Word_Classes.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Word_Classes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Word_Classes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Count_Cites___Bibliographies.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/Count_Cites___Bibliographies.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/Count_Cites___Bibliographies.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/Count_Cites___Bibliographies.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/Count_Cites___Bibliographies.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/bibliografias.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/bibliografias.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/citas-ref.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/citas-ref.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/citas-viudas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/citas-viudas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/citas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/citas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/fechas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/fechas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/frecuencias.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/frecuencias.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/ref-citadas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/ref-citadas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/ref-viudas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../P2-Count Cites &amp; Bibliographies/cmake-build-debug/ref-viudas.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-533754565">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="988186580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1678513285">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>administra</find>
+      <find>work</find>
+      <find>yesterday</find>
+      <find>..\\</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AngelValay &lt;1730322@upv.edu.mx&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Word_Classes">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Word_Classes" RUN_TARGET_NAME="Word_Classes" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Word_Classes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Word_Classes" TARGET_NAME="Word_Classes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Word_Classes" RUN_TARGET_NAME="Word_Classes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Word_Classes" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d5b69d-14f2-477e-9c44-7d04ddf4fdf0" name="Default" comment="" />
+      <created>1532059951071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532059951071</updated>
+      <workItem from="1532059952822" duration="2654000" />
+      <workItem from="1532147332192" duration="1316000" />
+      <workItem from="1532328671744" duration="293000" />
+      <workItem from="1532365495307" duration="12561000" />
+      <workItem from="1532842053142" duration="568000" />
+      <workItem from="1532913658788" duration="5764000" />
+      <workItem from="1532952105692" duration="25078000" />
+      <workItem from="1533038737639" duration="4928000" />
+      <workItem from="1533090820163" duration="1674000" />
+      <workItem from="1533095736993" duration="514000" />
+      <workItem from="1533096274608" duration="681000" />
+      <workItem from="1533135070272" duration="900000" />
+      <workItem from="1533218683568" duration="990000" />
+      <workItem from="1533417415923" duration="41000" />
+      <workItem from="1533569332953" duration="1754000" />
+      <workItem from="1533609362565" duration="531000" />
+      <workItem from="1533610148227" duration="160000" />
+      <workItem from="1533643780867" duration="2387000" />
+      <workItem from="1533688268383" duration="932000" />
+      <workItem from="1533740022404" duration="815000" />
+      <workItem from="1534166838027" duration="1978000" />
+      <workItem from="1534345303617" duration="748000" />
+      <workItem from="1534519032774" duration="840000" />
+      <workItem from="1535350131548" duration="1100000" />
+      <workItem from="1535351880138" duration="549000" />
+      <workItem from="1535522218988" duration="388000" />
+      <workItem from="1536115588892" duration="348000" />
+      <workItem from="1536122018439" duration="93000" />
+      <workItem from="1536153987374" duration="310000" />
+      <workItem from="1537289437603" duration="797000" />
+      <workItem from="1537652270155" duration="838000" />
+      <workItem from="1539796163138" duration="157000" />
+    </task>
+    <task id="LOCAL-00001" summary="Delete innecesary instruction">
+      <created>1535522524692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535522524692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72687000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Run" order="2" type="WINDOWED" weight="0.7027027" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3229508" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Delete innecesary instruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete innecesary instruction" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/iostream" />
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

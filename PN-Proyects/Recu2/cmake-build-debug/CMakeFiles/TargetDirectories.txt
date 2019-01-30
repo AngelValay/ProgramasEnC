@@ -1,3 +1,0 @@
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/Recu2/cmake-build-debug/CMakeFiles/Recu2.dir
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/Recu2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/Recu2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

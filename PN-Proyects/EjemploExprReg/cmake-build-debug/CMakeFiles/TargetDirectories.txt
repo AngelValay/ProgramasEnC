@@ -1,3 +1,0 @@
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/EjemploExprReg/cmake-build-debug/CMakeFiles/EjemploExprReg.dir
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/EjemploExprReg/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/angel/Documents/Programacion Estructurada/Proyects/EjemploExprReg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
